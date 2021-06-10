@@ -1,5 +1,5 @@
 - 👋 Olá tudo bem ?  Me chamo Rafael
-- 💻 DesenvolvedorFront-end e Back-end 🏡 Brasileiro 🌎 Minas Gerais ✈️ Brasil
+- 💻 Desenvolvedor Front-end e Back-end 🏡 Brasileiro 🌎 Minas Gerais ✈️ Brasil
 - 👀 I’m interested in  Programação web mobile          
 - 🌱 I’m currently learning 🐘PHP+📱LARAVEL+👻LIVEWIRE
 - 🎓 Graduando em Ánalise e desenvolvimento de sistemas
